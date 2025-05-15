@@ -18,5 +18,4 @@ public class JwtUtils {
   @Value("${app.jwtExpirationMs}")
   private int jwtExpirationMs;
 
-  
 }
